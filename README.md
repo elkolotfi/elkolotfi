@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkcHRzazlremc2djFhNnk3ZTl2ZHFhc3ltMXpiY2R1MWJ2cHRjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif" alt="Coder GIF" width="400">
 
-## About Me π
+## About Me
 
 - Im a **Full-Stack Engineer** with over 11 years of experience.
 - I have a strong background in **Java**, **JavaScript/TypeScript**, **PHP**, and various web frameworks and libraries.
@@ -48,9 +48,9 @@ Here are some of the projects I've worked on:
 - **Central LCN**: A new declaration center for commercial paper incidents, complying with regulatory requirements.
 - **Convergence Afrique**: A project to merge the IT systems of four banks in Africa onto a single platform.
 
-## Let's Connect!«
+## Let's Connect!
 
 Feel free to reach out to me on:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lotfi-el-korchi-a9ba5971/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lotfi-el-korchi)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">](mailto:elkolotfi@gmail.com)
