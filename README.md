@@ -1,4 +1,4 @@
-# Lotfi EL KORCHI - Full-Stack Engineer»
+# Lotfi EL KORCHI - Full-Stack Engineer
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkcHRzazlremc2djFhNnk3ZTl2ZHFhc3ltMXpiY2R1MWJ2cHRjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif" alt="Coder GIF" width="400">
 
