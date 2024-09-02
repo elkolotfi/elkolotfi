@@ -1,16 +1,16 @@
-# Lotfi EL KORCHI - Full-Stack Engineerπ¨βπ»
+# Lotfi EL KORCHI - Full-Stack Engineer»
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszSJQoWW/giphy.gif" alt="Coder GIF" width="400">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFkcHRzazlremc2djFhNnk3ZTl2ZHFhc3ltMXpiY2R1MWJ2cHRjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif" alt="Coder GIF" width="400">
 
 ## About Me π
 
-- π Iβm a **Full-Stack Engineer** with over 11 years of experience.
-- π I have a strong background in **Java**, **JavaScript/TypeScript**, **PHP**, and various web frameworks and libraries.
-- π€ I love to dive into **cloud technologies** like **AWS** and **containerization** with **Docker**.
-- π I'm passionate about **Agile methodologies** and **clean code practices**.
-- πΆ In my free time, I enjoy listening to music, going for a run, and exploring new technologies.
+- Im a **Full-Stack Engineer** with over 11 years of experience.
+- I have a strong background in **Java**, **JavaScript/TypeScript**, **PHP**, and various web frameworks and libraries.
+- I love to dive into **cloud technologies** like **AWS** and **containerization** with **Docker**.
+- I'm passionate about **Agile methodologies** and **clean code practices**.
+- In my free time, I enjoy listening to music, going for a run, and exploring new technologies.
 
-## Skills π 
+## Skills 
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -39,7 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Projects π 
+## Projects 
 
 Here are some of the projects I've worked on:
 
@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 - **Central LCN**: A new declaration center for commercial paper incidents, complying with regulatory requirements.
 - **Convergence Afrique**: A project to merge the IT systems of four banks in Africa onto a single platform.
 
-## Let's Connect! π«
+## Let's Connect!«
 
 Feel free to reach out to me on:
 
